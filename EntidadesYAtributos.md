@@ -1,22 +1,21 @@
 # Entidades y atributos
 
-## Escuchar música
+## Música
 
-### Nombre de canciones 
-- In the end
-- La última canción 
-- Firestone
-- She will be loved
-- Episodios
+### Canciones
+- Nombre
+- Género
+- Artista
+- Fecha de lanzamiento
+
 ### Género de música
 - Rock alternativo
 - Urbano Latino
 - Eléctronica
 - Pop rock
 - Reggaeton
+
 ### Artistas
-- Linkin Park
-- Rels B
-- Kygo
-- Maroon 5
-- Maria Becerra
+- Fecha de nacimiento
+- Nacionalidad
+- Géneros musicales 

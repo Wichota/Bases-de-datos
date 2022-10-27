@@ -37,7 +37,7 @@
 ### Países
 - id_paises(**_PK_**)
 - Nombre
-- Clave país
+- Dominio 
 ## Relaciones
 
 1. Un **país** poseé **artista** (1-M)
@@ -45,6 +45,6 @@
 3. Un **albúm** poseé Artista y **canciones**(M-M)
 4. Un **género** poseé **canciones** (1-M)
 
-![Luisa Soriano](https://media.discordapp.net/attachments/1011284720350412802/1034484297127702632/ModeloRelacional.drawio.png?width=726&height=513)
+![Luisa Soriano](https://cdn.discordapp.com/attachments/1011284720350412802/1035211208820789299/Modeldrawio.png)
 
 
